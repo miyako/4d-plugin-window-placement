@@ -1,0 +1,16 @@
+{
+    "name": "Window Placement",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "Window Placement",
+            "syntax": "SET WINDOW PLACEMENT(&L;&J)",
+            "threadSafe": true
+        },
+        {
+            "theme": "Window Placement",
+            "syntax": "Get window placement(&L):J",
+            "threadSafe": true
+        }
+    ]
+}
